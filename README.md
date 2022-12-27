@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Web Development, Python, C++, Java
 
-- 📫 How to reach me srishti.gupta052002@gmail.com
+- 📫 How to reach me srishti.gupta052002@gmail.com or https://www.linkedin.com/in/srishti-gupta-1b2530201/
 
 
 <h3 align="left">Languages and Tools:</h3>
